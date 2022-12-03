@@ -1,4 +1,4 @@
-#ChatGPT
+# 我請 ChatGPT 證明歐拉公式，結果回應如下
 
 歐拉公式（Euler's formula）是一個非常重要的數學定理，它表示:
 
